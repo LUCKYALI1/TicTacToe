@@ -23,4 +23,18 @@ A simple and interactive **Tic Tac Toe** game built with **React.js** using func
 ---
 
 ## 📁 File Structure
+TicTacToe/
+│
+├── src/
+│ ├── Assets/
+│ │ ├── circle.png
+│ │ └── cross.png
+│ ├── TicTacToe.js
+│ ├── TicTacToe.css
+│ └── App.js
+│
+├── public/
+│ └── index.html
+├── package.json
+└── README.md
 
