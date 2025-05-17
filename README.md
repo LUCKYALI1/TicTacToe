@@ -15,26 +15,8 @@ A simple and interactive **Tic Tac Toe** game built with **React.js** using func
 ---
 
 ## 📸 Screenshot
-
-> *(Include a screenshot of your game UI here)*  
-> Example:  
-> ![Tic Tac Toe Game Screenshot](./Assets/preview.png)
+> ![Tic Tac Toe Game Screenshot](./Assets/Preview1.png)
+> > ![Tic Tac Toe Game Screenshot](./Assets/Preview2.png)
 
 ---
-
-## 📁 File Structure
-TicTacToe/
-│
-├── src/
-│ ├── Assets/
-│ │ ├── circle.png
-│ │ └── cross.png
-│ ├── TicTacToe.js
-│ ├── TicTacToe.css
-│ └── App.js
-│
-├── public/
-│ └── index.html
-├── package.json
-└── README.md
 
